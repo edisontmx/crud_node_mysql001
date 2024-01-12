@@ -1,0 +1,15 @@
+#inicia en min 10:00
+#iniciar node
+#instalar modulos, npm i express
+#configuracion de servidor
+#crear rutas min 15:35
+#coneccion a base de datos 20:23
+#organizando - rutas nodejs con ruoter, se ordena el proyecto 32:41
+#organiozando - controlers 4:15 termina 45:50 - 55:30
+#obtener registro con ID 1:00:00
+#delete employee 1:09:37
+#actualizar 1:15:40 - 1:24:40
+#manejo de errores 1:30:00
+#not found route, 1:36:37
+#variables de entorno:38:49
+#despliegue en railway
